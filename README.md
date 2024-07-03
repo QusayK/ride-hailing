@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ride-hailing-backend.git
+   git clone https://github.com/QusayK/ride-hailing.git
    cd ride-hailing-backend
    ```
 
